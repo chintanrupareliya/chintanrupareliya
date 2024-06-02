@@ -1,4 +1,6 @@
-# 💫 About Me:
+<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> नमस्ते (Namaste)🙏🏻, I'm Chintan Rupareliya! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+
 🔭 **I’m currently working on:** <br>Fullstack projects<br> <br>👯 **I’m looking to collaborate on:**  <br>Fullstack projects<br><br>🌱 **I’m currently learning:**  <br>Node js and improving my skils in web development<br><br>💬 **Ask me about:**  <br>JavaScript, React, Node.js,and any general software development questions.<br><br>
 
 👇 Hit in your console or terminal to connect with me.
@@ -7,6 +9,9 @@
 npx chintan
 ```
 
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+
+---
 
 ## 🌐 Socials:
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Chintankishorb2) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/chintan_rupareliya?utm_source=qr&igsh=MzNlNGNkZWQ4Mg==) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chintan-rupareliya-202640201?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
