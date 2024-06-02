@@ -1,6 +1,12 @@
 # 💫 About Me:
 🔭 **I’m currently working on:** <br>Fullstack projects<br> <br>👯 **I’m looking to collaborate on:**  <br>Fullstack projects<br><br>🌱 **I’m currently learning:**  <br>Node js and improving my skils in web development<br><br>💬 **Ask me about:**  <br>JavaScript, React, Node.js,and any general software development questions.<br><br>
 
+👇 Hit in your console or terminal to connect with me.
+
+```bash
+npx chintan
+```
+
 
 ## 🌐 Socials:
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Chintankishorb2) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/chintan_rupareliya?utm_source=qr&igsh=MzNlNGNkZWQ4Mg==) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chintan-rupareliya-202640201?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
