@@ -3,7 +3,7 @@
   नमस्ते (Namaste) 🙏🏻, I'm <strong>Chintan Rupareliya</strong>!  
   <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">  
 </h2>  
-<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<img align="center" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" >
 
 👋 **Hello, World!**  
 I’m a passionate Fullstack Developer with a keen interest in building scalable and user-friendly web applications. I enjoy working with modern web technologies and always aim to keep learning and improving.
