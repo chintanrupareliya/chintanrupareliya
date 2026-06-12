@@ -38,5 +38,5 @@ Currently working on backend systems using Django, DRF, and FastAPI, while also 
 
 ## 📫 Connect
 
-- Upwork: [https://www.upwork.com/freelancers/chintanr](https://www.upwork.com/freelancers/~0196541f006c71a52c?mp_source=share) 
+- Upwork: https://www.upwork.com/freelancers/~0196541f006c71a52c?mp_source=share
 - LinkedIn: https://www.linkedin.com/in/chintan-rupareliya-202640201/?skipRedirect=true
